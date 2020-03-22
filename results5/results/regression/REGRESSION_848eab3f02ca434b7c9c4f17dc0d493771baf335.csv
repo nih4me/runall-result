@@ -1,0 +1,4 @@
+init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_error
+sgd_regressor,0.005775,0.501584,0.501579,4.081728,1.563380
+elasticnet,0.027121,0.186152,0.184462,6.678706,2.235132
+omp,0.020932,0.400580,0.398501,4.925866,1.826213
