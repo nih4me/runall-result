@@ -1,0 +1,2 @@
+init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_error
+elasticnet,0.079901,0.186152,0.184461,6.678711,2.235133

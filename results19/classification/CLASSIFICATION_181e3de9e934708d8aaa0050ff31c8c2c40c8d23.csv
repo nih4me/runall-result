@@ -1,0 +1,2 @@
+init,time,accuracy,precision,recall,fscore
+gnb,0.008958,0.090909,0.008264,0.090909,0.015152

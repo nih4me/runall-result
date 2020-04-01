@@ -1,0 +1,12 @@
+init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_error
+sgd_regressor,0.006360,0.501584,0.501579,4.081728,1.563380
+elasticnet,0.011640,0.186152,0.184462,6.678706,2.235132
+omp,0.011118,0.400580,0.398501,4.925866,1.826213
+init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_error
+sgd_regressor,0.006138,0.501584,0.501579,4.081728,1.563380
+elasticnet,0.015844,0.186152,0.184462,6.678706,2.235132
+omp,0.020813,0.400580,0.398501,4.925866,1.826213
+init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_error
+sgd_regressor,0.070033,0.501584,0.501579,4.081728,1.563380
+elasticnet,0.211710,0.186152,0.184462,6.678706,2.235132
+omp,0.039581,0.400580,0.398501,4.925866,1.826213

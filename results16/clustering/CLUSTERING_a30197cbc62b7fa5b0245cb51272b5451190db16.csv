@@ -1,0 +1,2 @@
+init,time,inertia,homo,compl,v-meas,ARI,silhouette
+kmeans_k-means++,4.169948,70604.355292,0.641490,0.682886,0.661541,0.526891,0.143120

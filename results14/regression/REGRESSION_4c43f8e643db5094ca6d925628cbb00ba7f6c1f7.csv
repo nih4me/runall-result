@@ -1,0 +1,2 @@
+init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_error
+sgd_regressor,0.017995,0.501584,0.501579,4.081728,1.563380

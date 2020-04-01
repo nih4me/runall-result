@@ -2,3 +2,7 @@ init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_err
 sgd_regressor,0.096472,0.501584,0.501579,4.081728,1.563380
 elasticnet,0.012774,0.186152,0.184462,6.678706,2.235132
 omp,0.044104,0.400580,0.398501,4.925866,1.826213
+init,time,explained_variance_score,r2_score,mean_squared_error,mean_absolute_error
+sgd_regressor,0.106191,0.501584,0.501579,4.081728,1.563380
+elasticnet,0.026646,0.186152,0.184462,6.678706,2.235132
+omp,0.041097,0.400580,0.398501,4.925866,1.826213
